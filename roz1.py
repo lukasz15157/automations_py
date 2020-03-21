@@ -6,4 +6,4 @@ print('witaj' + myname + '. Milo Cie widziec')
 if myname == 'lukasz'
     print("witaj lukasz")
 else
-    print("witaj niezn
+    print("witaj niezn")
