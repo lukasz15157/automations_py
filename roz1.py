@@ -3,7 +3,7 @@ print("jak masz na imie")
 myname=input()
 print('witaj' + myname + '. Milo Cie widziec')
 
-if myname == 'lukasz'
+if myname == 'lukasz':
     print("witaj lukasz")
-else
+else:
     print("witaj niezn")
